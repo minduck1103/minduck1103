@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minduck1103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minduck1103&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide=html,css" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=minduck1103&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&border_radius=20&bg_color=DEG,0f0f23,1a1a2e,16213e&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&ring_color=ff6b6b" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minduck1103&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=8&theme=radical&hide_border=true&border_radius=20&bg_color=DEG,0f0f23,1a1a2e,16213e&title_color=ff6b6b&text_color=ffffff&hide=html,css,cmake,makefile" height="180" alt="languages graph"  />
 </div>
 
 ###
