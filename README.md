@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/WUFFI-vibes-wuffi-lofi-OumCa12QC9CIvBe2c1"  />
+<img align="right" height="150" src="https://pin.it/78MvS61C4"  />
 
 ###
 
