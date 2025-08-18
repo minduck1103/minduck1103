@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pin.it/78MvS61C4"  />
+![lofi dog](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRqOTN0ZWhjdm4zeXhrdHlsY3BmbWdzZjhoYng5azY4ang3bzl1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif)
 
 ###
 
